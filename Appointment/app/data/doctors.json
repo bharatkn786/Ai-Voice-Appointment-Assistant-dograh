@@ -1,0 +1,107 @@
+[
+  {
+    "name": "dr raj sharma",
+    "specialty": "cardiologist",
+    "location": "delhi",
+    "available": true,
+    "calendar_id": "60563b306db9c556eda723b661808c9d3913e6ab373be606efb269deef0ca9c9@group.calendar.google.com"
+  },
+  {
+    "name": "dr priya mehta",
+    "specialty": "cardiologist",
+    "location": "delhi",
+    "available": false,
+    "calendar_id": "127110a3726d0c9d7e169e6fc7b0138efc029b4504defe4b784365bbd30d50b1@group.calendar.google.com"
+  },
+  {
+    "name": "dr arjun kapoor",
+    "specialty": "cardiologist",
+    "location": "gurgaon",
+    "available": true,
+    "calendar_id": "f968122849dca846228fb2715cc3b336894bea3ac6b6b8ea36a203cf7e451700@group.calendar.google.com"
+  },
+  {
+    "name": "dr neha sharma",
+    "specialty": "dermatologist",
+    "location": "gurgaon",
+    "available": true,
+    "calendar_id": "7e26fa3d1fa99e09adb70aa1506690f6aa2c4dd45aa07b1f82a9df99ec49ce31@group.calendar.google.com"
+  },
+  {
+    "name": "dr riya malhotra",
+    "specialty": "dermatologist",
+    "location": "delhi",
+    "available": true,
+    "calendar_id": "ea7a877d9737b48434b0f86214ae5837ddbc0aac5dd01a5dcfe308f2e92c91a3@group.calendar.google.com"
+  },
+  {
+    "name": "dr karan bansal",
+    "specialty": "dermatologist",
+    "location": "noida",
+    "available": false,
+    "calendar_id": "86999035c50b3aa913ab39c885ce386c8b45fb5e01d0048f2bf0189ecea18755@group.calendar.google.com"
+  },
+  {
+    "name": "dr amit verma",
+    "specialty": "orthopedist",
+    "location": "delhi",
+    "available": true,
+    "calendar_id": "18554504026dab97109ff6406f56ab09d7e73858afcf3be0d5607969fb46e204@group.calendar.google.com"
+  },
+  {
+    "name": "dr rohit gupta",
+    "specialty": "orthopedist",
+    "location": "gurgaon",
+    "available": true,
+    "calendar_id": "9637e79697aacfbc5d1c57c2cfe13705c999cf028c1bbf7dde8e2203a769e1c5@group.calendar.google.com"
+  },
+  {
+    "name": "dr sneha agarwal",
+    "specialty": "orthopedist",
+    "location": "noida",
+    "available": false,
+    "calendar_id": "e6fcb821f9656fecc559042555e074eb04973da27e5e3217c5c76cc39fa97982@group.calendar.google.com"
+  },
+  {
+    "name": "dr vikram singh",
+    "specialty": "cardiologist",
+    "location": "noida",
+    "available": true,
+    "calendar_id": "960002941b6c6185a27ad7b81d01b5d9fa6eba82c981c96bd5302c8e2e706c73@group.calendar.google.com"
+  },
+  {
+    "name": "dr ananya rao",
+    "specialty": "dermatologist",
+    "location": "delhi",
+    "available": false,
+    "calendar_id": "d62d56aca2a4f62d3af4aca4370e3a43ec2ee2b75c1fb08c73f9f106292c1d68@group.calendar.google.com"
+  },
+  {
+    "name": "dr manish khanna",
+    "specialty": "orthopedist",
+    "location": "delhi",
+    "available": true,
+    "calendar_id": "c64409515882d3c687cff4d11129ba99c3ad85222b6a544b273dccf88e40bab4@group.calendar.google.com"
+  },
+  {
+    "name": "dr pooja sethi",
+    "specialty": "cardiologist",
+    "location": "gurgaon",
+    "available": true,
+    "calendar_id": "5a549e9c1f4dcca98afe07e39fda9ac5a8be96e23ddf3e7e07eeb245297d6e5e@group.calendar.google.com"
+  },
+  {
+    "name": "dr nitin arora",
+    "specialty": "dermatologist",
+    "location": "noida",
+    "available": true,
+    "calendar_id": "f10ac535799b1343d96ca493015f71cff813a4e33028dc2d6e60b4c72eab9937@group.calendar.google.com"
+  },
+  {
+    "name": "dr kavita joshi",
+    "specialty": "orthopedist",
+    "location": "gurgaon",
+    "available": true,
+    "calendar_id": "201a69a91342e8d960a5ad45eaa0a52c137824498996706fb48d127fdd03b872@group.calendar.google.com"
+  }
+]
